@@ -1,10 +1,26 @@
 
 
-  body {
+body {
     background-color: hsl(230, 50%, 75%);
   }
   
-  
+h2 {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(122, 138, 216);
+}
+ 
+div { text-align: center;
+}
+
+
+
+
+
+
+
+
+
  
 .sidenav {
   height: 100%;
