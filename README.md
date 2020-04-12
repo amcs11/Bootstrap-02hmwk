@@ -3,7 +3,7 @@ The following repository presents my first (clunky) attempt at using Bootstrap's
 
 I began this project by creating an index.html, portfolio.html and a contact.html.
 Once those were added I began the layout of the index.html with photo and then adjusted the navbar and text placement around that central photo.
-I then worked on links to each page using img src for each page link resulting in the following web pages:
+I then worked on the links to each page using img src for each page link resulting in the following web pages:
 
 Home page should look like,
   ![](Assets/Images/ScreenShot-HomePage.png)
